@@ -1,0 +1,12 @@
+/Users/caroline/workspace/CSharp/Common_Types_Dictionaries/bin/Debug/netcoreapp3.1/Common_Types_Dictionaries.deps.json
+/Users/caroline/workspace/CSharp/Common_Types_Dictionaries/bin/Debug/netcoreapp3.1/Common_Types_Dictionaries.runtimeconfig.json
+/Users/caroline/workspace/CSharp/Common_Types_Dictionaries/bin/Debug/netcoreapp3.1/Common_Types_Dictionaries.runtimeconfig.dev.json
+/Users/caroline/workspace/CSharp/Common_Types_Dictionaries/bin/Debug/netcoreapp3.1/Common_Types_Dictionaries.dll
+/Users/caroline/workspace/CSharp/Common_Types_Dictionaries/bin/Debug/netcoreapp3.1/Common_Types_Dictionaries.pdb
+/Users/caroline/workspace/CSharp/Common_Types_Dictionaries/obj/Debug/netcoreapp3.1/Common_Types_Dictionaries.csprojAssemblyReference.cache
+/Users/caroline/workspace/CSharp/Common_Types_Dictionaries/obj/Debug/netcoreapp3.1/Common_Types_Dictionaries.csproj.CoreCompileInputs.cache
+/Users/caroline/workspace/CSharp/Common_Types_Dictionaries/obj/Debug/netcoreapp3.1/Common_Types_Dictionaries.AssemblyInfoInputs.cache
+/Users/caroline/workspace/CSharp/Common_Types_Dictionaries/obj/Debug/netcoreapp3.1/Common_Types_Dictionaries.AssemblyInfo.cs
+/Users/caroline/workspace/CSharp/Common_Types_Dictionaries/obj/Debug/netcoreapp3.1/Common_Types_Dictionaries.dll
+/Users/caroline/workspace/CSharp/Common_Types_Dictionaries/obj/Debug/netcoreapp3.1/Common_Types_Dictionaries.pdb
+/Users/caroline/workspace/CSharp/Common_Types_Dictionaries/obj/Debug/netcoreapp3.1/Common_Types_Dictionaries.genruntimeconfig.cache
