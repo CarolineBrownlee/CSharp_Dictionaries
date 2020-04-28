@@ -95,14 +95,36 @@ namespace Common_Types_Dictionaries
             */
 
             // Iterate the List of Dictionaries
-            foreach (Dictionary<string, string> word in dictionaryOfWords)
+            // foreach (Dictionary<string, string> word in dictionaryOfWords)
+            // {
+            //     // Iterate the KeyValuePairs of the Dictionary
+            //     foreach (KeyValuePair<string, string> wordData in word)
+            //     {
+            //         Console.WriteLine($"{wordData.Key}: {wordData.Value}");
+            //     }
+            // }
+
+            // ===== Practice:  English Idioms =====
+            Dictionary<string, List<string>> idioms = new Dictionary<string, List<string>>();
+
+            idioms.Add("Penny", new List<string> { "A", "penny", "for", "your", "thoughts" });
+            idioms.Add("Injury", new List<string> { "Add", "insult", "to", "injury" });
+            idioms.Add("Moon", new List<string> { "Once", "in", "a", "blue", "moon" });
+            idioms.Add("Grape", new List<string> { "I", "heard", "it", "through", "the", "grapevine" });
+            idioms.Add("Murder", new List<string> { "Kill", "two", "birds", "with", "one", "stone" });
+            idioms.Add("Limbs", new List<string> { "It", "costs", "an", "arm", "and", "a", "leg" });
+            idioms.Add("Grain", new List<string> { "Take", "what", "someone", "says", "with", "a", "grain", "of", "salt" });
+            idioms.Add("Fences", new List<string> { "I'm", "on", "the", "fence", "about", "it" });
+            idioms.Add("Sheep", new List<string> { "Pulled", "the", "wool", "over", "his", "eyes" });
+            idioms.Add("Lucifer", new List<string> { "Speak", "of", "the", "devil" });
+
+           
+            // Iterate the KeyValuePairs of the Dictionary
+            foreach (KeyValuePair<string, List<string>> idiom in idioms)
             {
-                // Iterate the KeyValuePairs of the Dictionary
-                foreach (KeyValuePair<string, string> wordData in word)
-                {
-                    Console.WriteLine($"{wordData.Key}: {wordData.Value}");
-                }
+                Console.WriteLine($"{idiom.Key}: {String.Join(" ", idiom.Value)}.");
             }
+           
         }
     }
 }
